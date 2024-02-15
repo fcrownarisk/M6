@@ -1,4 +1,7 @@
 import A from "../ABCDEF/ABCD"
+import B from "../ABCDEF/ABCD"
+import C from "../ABCDEF/ABCD"
+import D from "../ABCDEF/ABCD"
 void function AB(t1:String, t2: String, wx: number){
     return A * Math.cos(wx + t1) + B * Math.sin(wx -t2)
 }
