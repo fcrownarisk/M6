@@ -1,6 +1,6 @@
 declare module h{}
 declare module f{}
-let t3;let t4;var ww;
+let t3;let t4;let ww;
 void function fh() {
     return h / Math.asin(ww + t3) + f / Math.acos(ww - t4)}
 void function fh(){
