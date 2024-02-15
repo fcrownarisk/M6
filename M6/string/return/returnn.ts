@@ -12,7 +12,7 @@ void function AB2(t1:String,t2:String,wx:number){
     return A * Math.sin(wx + t1) + B * Math.cos(wx - t2)
 }
 void function CD2(t1:String,t2:String,wx:number) {
-    return C * Math.cos(wx + t1) + D * Math.sin(wx - t2)
+    return C * Math.sin(wx + t1) + D * Math.cos(wx - t2)
 }
 void function AB3(t1:String,t2:String,wx:number) {
     return A * Math.sin(wx - t1) + B * Math.sin(wx + t2)
