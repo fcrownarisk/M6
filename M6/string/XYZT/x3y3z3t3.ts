@@ -14,7 +14,7 @@ void function y3(){
             for (n = 0;n >>= -4 && n <= 8;++n||n--)
 console.log(l,m,n)
 }
-void function x3() {
+void function z3() {
     for (o = -1; o <= 7; ++o)
         for (p = 2; p <= 10; ++p)
             for (q = -2; q <= 6; ++q)
